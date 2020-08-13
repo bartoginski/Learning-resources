@@ -73,15 +73,22 @@ code internationalmonthly
 - kaggle <https://www.kaggle.com/learn/overview>
 - google ML <https://developers.google.com/machine-learning/crash-course>
 - fast ai <https://www.fast.ai/>
+- Chris Albon Page <https://chrisalbon.com/>
+- Code. Build. Repeat. <https://codebuildrepeat.blogspot.com/2020/03/my-first-year-as-data-scientist.html?m=1&fbclid=IwAR0qKW9-K51WF-k8npv-vNiChSdP8tUnNfnfaMMdndlE6FE9uRXp2-FScFk>
+- Data Science Roadmap 2020 <https://medium.com/@ArtisOne/data-science-roadmap-2020-b256fb948404>
+- AIcrowd <https://www.aicrowd.com/>
+- data-scientist-roadmap <https://github.com/MrMimic/data-scientist-roadmap>
+- Think Stats: Probability and  Statistics for Programmers PDF <http://greenteapress.com/thinkstats/thinkstats.pdf>
+- Crash Course on Basic Statistics <http://cbmm.mit.edu/sites/default/files/documents/probability_handout.pdf>
+- Thinks Stats <https://greenteapress.com/wp/think-stats-2e/>
+- Python for Data Science (Ultimate Quickstart Guide) <https://elitedatascience.com/python-quickstart>
 
-
+### Computer Science
+- How to Think Like a Computer Scientist: Interactive Edition <https://runestone.academy/runestone/books/published/thinkcspy/index.html>
 
 ### API
 - WorldTimeAPI <http://worldtimeapi.org/>
 - JSON Placeholder <https://jsonplaceholder.typicode.com/todos/1>
-
-
-
 
 ### Dart / Flutter 
 - Dartpad <https://dartpad.dev/>
@@ -89,6 +96,8 @@ code internationalmonthly
 
 ### SQL 
 - SQLbolt <https://sqlbolt.com/lesson/select_queries_introduction>
+- SQLCourse <http://www.sqlcourse.com/>\
+- SoloLearn <https://www.sololearn.com/Course/SQL/>
 
 
 ### Nodejs
@@ -112,6 +121,8 @@ code internationalmonthly
 
 ### Python
 - Learn Python <https://www.learnpython.dev/01-introduction/>
+- Practice Python <http://www.practicepython.org/>
+- Pytho Like You Mean It <https://www.pythonlikeyoumeanit.com/>
 
 
 ### Java 
