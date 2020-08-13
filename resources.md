@@ -86,6 +86,10 @@ code internationalmonthly
 ### Computer Science
 - How to Think Like a Computer Scientist: Interactive Edition <https://runestone.academy/runestone/books/published/thinkcspy/index.html>
 
+
+### R
+- swirl <https://swirlstats.com/>
+- R for data science <https://r4ds.had.co.nz/introduction.html>
 ### API
 - WorldTimeAPI <http://worldtimeapi.org/>
 - JSON Placeholder <https://jsonplaceholder.typicode.com/todos/1>
