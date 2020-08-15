@@ -82,6 +82,10 @@ code internationalmonthly
 - Crash Course on Basic Statistics <http://cbmm.mit.edu/sites/default/files/documents/probability_handout.pdf>
 - Thinks Stats <https://greenteapress.com/wp/think-stats-2e/>
 - Python for Data Science (Ultimate Quickstart Guide) <https://elitedatascience.com/python-quickstart>
+- A gellery of interesting jupyter notebooks <https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#general-python-programming>
+- Python 3 Module of the Week <https://pymotw.com/3/>
+
+
 
 ### Computer Science
 - How to Think Like a Computer Scientist: Interactive Edition <https://runestone.academy/runestone/books/published/thinkcspy/index.html>
