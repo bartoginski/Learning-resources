@@ -1,7 +1,7 @@
-# Nauka - Programowanie
+# Programming
 
-## Portale do nauki 🚀
-### Bezpłatne: 💸
+
+### Free: 💸
 - FreecodeCamp - <https://www.freecodecamp.org/>
 - Hyperskill <https://hi.hyperskill.org/>
 - Microsoft Learn <https://docs.microsoft.com/pl-pl/learn/>
@@ -14,7 +14,7 @@
 - StackBlitz <https://stackblitz.com/>
 - Glitch <https://glitch.com/>
 
-### Płatne: 💰
+### Paid: 💰
 - Team tree house – <https://teamtreehouse.com/>
 - Codecademy - <https://www.codecademy.com/learn>
 - Frontend Masters zniżka - <https://www.youtube.com/redirect?redir_token=w1idpwWCTvcdhlFMM2SQCNzGt3J8MTU4OTI4MTU1NkAxNTg5MTk1MTU2&q=https%3A%2F%2Ffrontendmasters.com%2Fjoin%2F%3Fcode%3Dinternationalmonthly&v=U1eEkWZqoDQ&event=video_description>
@@ -22,14 +22,14 @@ code internationalmonthly
 
 - Pluralsight <https://www.pluralsight.com/>
  
-## Newslettery 📧
+## Newsletters 📧
 - Frontend Focus – <https://frontendfoc.us/>
 - JavaScript Weekly – <https://javascriptweekly.com/>
 - Codrops Team Collective – <https://tympanus.net/codrops/>
 
-## Strony 📟
+## Pages 📟
 
-### Dokumentacja
+### Docs
 - MDN – <https://developer.mozilla.org/en-US/>
 - Stack Overflow – <https://stackoverflow.com/>
 - DevDocs – <https://devdocs.io/>
@@ -47,7 +47,7 @@ code internationalmonthly
 - Codrops <https://tympanus.net/codrops/>
 - 10 Easy layouts <https://1linelayouts.glitch.me/>
 
-### Programowanie (HTML/CSS/JS)
+### Programming (HTML/CSS/JS)
 - JavaScript info <https://javascript.info/>
 - Egg Head <https://egghead.io/browse/frameworks/javascript>
 - Przeprogramowani <https://przeprogramowani.pl/kurs-javascript/#versions>
@@ -160,14 +160,14 @@ code internationalmonthly
 
 
 
-## Gry 🎮
+## Games 🎮
 - CSS Dinner – <https://flukeout.github.io/>
 - FlexBox Zombies – <https://mastery.games/p/flexbox-zombies>
 - Flexbox Froggy – <https://flexboxfroggy.com/>
 - CSS Grid Garden – <https://cssgridgarden.com/>
 - CodeWars – <https://www.codewars.com>
 
-## Książki 📚
+## Books 📚
 - Eloquent JavaScript 3rd edition <https://eloquentjavascript.net/>
 - Frontend Masters 2019 - <https://frontendmasters.com/books/front-end-handbook/2019/>
 - Frontend Masters <https://frontendmasters.com/books/>
@@ -175,10 +175,10 @@ code internationalmonthly
 - Js for cats <http://jsforcats.com/>
 
 
-## Podcasty 🎧
+## Podacasts 🎧
 - Syntax.fm <https://syntax.fm/>
 
-## Kanały na YT 📺
+## YT channels 📺
 - FunFunFunction <https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q>
 - The Net Ninja <https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg>
 - LearnCode academy <https://www.youtube.com/user/learncodeacademy>
