@@ -85,7 +85,7 @@ code internationalmonthly
 - A gellery of interesting jupyter notebooks <https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#general-python-programming>
 - Python 3 Module of the Week <https://pymotw.com/3/>
 - Machine Learning Mastery <https://machinelearningmastery.com/start-here/#getstarted>
-
+- Math for Machine Learning book <https://mml-book.github.io/>
 
 
 ### Computer Science
@@ -132,7 +132,7 @@ code internationalmonthly
 - Learn Python <https://www.learnpython.dev/01-introduction/>
 - Practice Python <http://www.practicepython.org/>
 - Pytho Like You Mean It <https://www.pythonlikeyoumeanit.com/>
-
+- Overiq - intro to python <https://overiq.com/python-101/intro-to-python/>
 
 ### Java 
 - Online Java compiler <https://www.jdoodle.com/online-java-compiler/>
