@@ -120,7 +120,11 @@ code internationalmonthly
 - Cheat sheet 2 <https://cheatography.com/laurence/cheat-sheets/c/>
 - Microsoft C# guide <https://docs.microsoft.com/pl-pl/dotnet/csharp/>
 - .NET guide <https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro>
-
+- Code easy <https://codeasy.net/>
+- Csharp station <http://csharp-station.com/>
+- Learn CS <https://www.learncs.org/>
+- C# / CSharp Tutorial  <http://www.java2s.com/Tutorial/CSharp/CatalogCSharp.htm>
+- Tutorials Point <https://www.tutorialspoint.com/csharp/index.htm>
 
 ### GoLang 
 - Golang pl <http://golang.org.pl/lang/index.html>
