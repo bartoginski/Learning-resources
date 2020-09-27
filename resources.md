@@ -126,6 +126,11 @@ code internationalmonthly
 - C# / CSharp Tutorial  <http://www.java2s.com/Tutorial/CSharp/CatalogCSharp.htm>
 - Tutorials Point <https://www.tutorialspoint.com/csharp/index.htm>
 
+### C++
+- Learn C++ <https://www.learncpp.com/>
+- Google C++ Class <https://developers.google.com/edu/c++/>
+- XOAX C++ <https://xoax.net/cpp/>
+
 ### GoLang 
 - Golang pl <http://golang.org.pl/lang/index.html>
 - Go by example <https://gobyexample.com/>
