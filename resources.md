@@ -142,6 +142,7 @@ code internationalmonthly
 - Practice Python <http://www.practicepython.org/>
 - Pytho Like You Mean It <https://www.pythonlikeyoumeanit.com/>
 - Overiq - intro to python <https://overiq.com/python-101/intro-to-python/>
+- Python Institute<https://pythoninstitute.org/free-python-courses/?
 
 #### Flask
 - Explore Flask <https://exploreflask.com/en/latest/index.html#>
