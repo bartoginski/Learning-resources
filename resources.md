@@ -149,6 +149,13 @@ code internationalmonthly
 
 ### Ruby
 - LaunchSchool <https://launchschool.com/books/ruby/read/basics>
+- TryRuby <https://try.ruby-lang.org/>
+- How To Learn Ruby On Rails <https://rubygarage.org/blog/how-to-learn-ruby-on-rails>
+- Ruby Monk <https://rubymonk.com/>
+- The Odin Project <https://www.theodinproject.com/paths/full-stack-ruby-on-rails>
+- The Bastards Book of Ruby <http://ruby.bastardsbook.com/> 
+- Ruby Koans <http://www.rubykoans.com/>
+- Ruby Learning <http://rubylearning.com/> 
 
 ### Linux
 - Linux setup for Web Development <https://github.com/Eckhardt-D/ubuntu-webdev-setup>
