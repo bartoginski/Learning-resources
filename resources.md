@@ -130,6 +130,7 @@ code internationalmonthly
 - Learn C++ <https://www.learncpp.com/>
 - Google C++ Class <https://developers.google.com/edu/c++/>
 - XOAX C++ <https://xoax.net/cpp/>
+- CPP Institute <https://cppinstitute.org/>
 
 ### GoLang 
 - Golang pl <http://golang.org.pl/lang/index.html>
