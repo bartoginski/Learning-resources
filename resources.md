@@ -143,6 +143,9 @@ code internationalmonthly
 - Pytho Like You Mean It <https://www.pythonlikeyoumeanit.com/>
 - Overiq - intro to python <https://overiq.com/python-101/intro-to-python/>
 
+#### Flask
+- Explore Flask <https://exploreflask.com/en/latest/index.html#>
+
 ### Java 
 - Online Java compiler <https://www.jdoodle.com/online-java-compiler/>
 
